@@ -30,3 +30,5 @@ npm run dev
 Svelte + Vite + TS
 
 This is still a work in progress. Use at your own risk!
+This is a fix for the original project. 
+I simply corrected the functionality for downloading the modified save file.
